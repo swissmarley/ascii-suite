@@ -1,0 +1,4 @@
+pyfiglet
+tkinter
+Pillow
+opencv-python
